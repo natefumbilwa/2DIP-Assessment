@@ -1,0 +1,22 @@
+{
+   "ques" : [
+    "1.Which is the special symbol used in python to add comments?",
+    "2.Syntax error in python is detected by _________at _______",
+    "3.Which one of the following has the highest precedence in the expression?",
+    "4.The format function, when applied on a string returns :",
+    "5.Which statement is correct?",
+    "6.When is American independence celebrated?"
+    ],
+
+    "options" : [
+    ["$", "//", "/*...*/", "#"],
+    ["compiler/ compile time","interpreter/ run time","compiler/ run time","interpreter/ compile time"],
+    ["Addition", "Multiplication", "Exponential", "Parentheses"],
+    ["list","bool","str","int"],
+    ["List is mutable & Tuple is immutable", "List is immutable & Tuple is mutable", "Both are Mutable", "Both are Immutable"],
+    ["8th March" , "4th July" , "17 May" , "5th June"]
+    ],
+
+    "ans" : [ 4, 2, 4, 3, 1, 2]
+
+}
