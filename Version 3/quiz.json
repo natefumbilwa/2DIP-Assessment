@@ -1,0 +1,31 @@
+{
+   "ques" : [
+    "1. Who can require you to undergo a breath screening test?",
+    "2. If you miss your exit on a motorway, you should:?",
+    "3. You wish to make a right turn on a narrow road. There is a vehicle \n coming towards you and traffic behind you. What is your safest option?\n",
+    "4. If your vehicle has a current warrant of fitness but a rear red stop \n light is not working, what should you do?\n",
+    "5. When following another vehicle on a dusty road you should:?",
+    "6. You're coming up to a school crossing and both of the School patrol \n stop signs are held out. When can you drive on?\n"
+    ],
+
+    "options" : [
+    ["An Ambulance officer", "A Doctor", "A member of the public", "A police officer"],
+    ["Reverse back to the exit", "Make a U-turn back to the exit", "Drive to the next exit","Stop and flash your lights"],
+    ["Wait in the centre of the road and turn when it is clear" ,"Drive straight ahead and do a U-turn when the road is clear","Decide not to turn and drive straight ahead","Move to the left side of the road and turn when the road is clear"],
+    ["Fix it immediately to avoid a fine","Get it fixed before your next warrant is due","You don't need to do anything because your vehicle still has a warrant","Stop driving your vehicle until it is fixed"],
+    ["Speed up to overtake the other driver","Turn your vehicle windsreen wipers on","Stay back from the dust cloud","Turn your vehicle headlights on"],
+    ["When both signs have been pulled in","When there are no pedestrians on the crossing","When the sign on your side of the crossing has been pulled in","When there are no pedestrians on your half of the crossing"]
+    ],
+
+    "ans" : [ 4, 3, 4, 1, 3, 1]
+
+}
+
+
+
+
+
+
+
+
+
